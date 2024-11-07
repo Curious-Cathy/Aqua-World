@@ -1,0 +1,25 @@
+/* CSS Document */
+
+.img{
+	max-width:100%;
+	height:auto;
+	background: lightblue;
+	background:radial-gradient(white 30%,lightblue 70%);
+}
+.parallax{
+	style="background-image: url(../Assets/User/slider-left-dec.png);
+	 background-position: left ;
+	 background-repeat:no-repeat;
+	 background-attachment:fixed;
+	
+}
+.page-title{
+background: #FFF;
+text-align:center;
+color:#30C;
+padding:50px;
+font-variant:small-caps;
+font-size: 100px;
+font-family:fantasy;
+letter-spacing:20px;
+}
